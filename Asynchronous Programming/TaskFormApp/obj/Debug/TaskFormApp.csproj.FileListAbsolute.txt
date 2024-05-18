@@ -1,0 +1,11 @@
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\bin\Debug\TaskFormApp.exe.config
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\bin\Debug\TaskFormApp.exe
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\bin\Debug\TaskFormApp.pdb
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.csproj.AssemblyReference.cache
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.Properties.Resources.resources
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.csproj.GenerateResource.cache
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.csproj.CoreCompileInputs.cache
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.exe
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.pdb
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\obj\Debug\TaskFormApp.Form1.resources
+C:\Users\hdinc\source\repos\Asynchronous Programming\TaskFormApp\bin\Debug\dosya.txt
